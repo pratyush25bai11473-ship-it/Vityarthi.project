@@ -18,7 +18,7 @@ Provides hands-on programming experience in Python.
 
 Offers a fun and engaging way to learn game development.
 
-**Data Description**
+**Data Description:-**
 This project uses image assets to create game visuals:
 
 img_45.png: Game Over screen image.
@@ -34,7 +34,7 @@ greenpipe.png: Pipe obstacle images.
 All images should be placed in the same directory as the script. These are standard PNG image files loaded using Pygame's image loader.
 
 
-**How to Use**
+**How to Use:-**
 Ensure Python 3.x is installed.
 
 Install Pygame via pip:
@@ -52,7 +52,7 @@ Avoid pipes and the ground to score points.
 Click the green restart button to play again after game over.
 
 
-**Features**
+**Features:-**
 Animated bird sprites for realistic flapping motion.
 
 Randomly generated pipe obstacles for endless gameplay.
@@ -77,14 +77,14 @@ Game over screen with a functional restart button.
 Graphics loaded from local image files.
 
 
-**Contact Information**
+**Contact Information:-**
 For questions or suggestions, please contact:
 
 Email: Pratyush.25bai11473@vitbhopal.ac.in
 
 GitHub: https://github.com/Pratyush25bai11473-ship-it
 
-**License**
+**License:-**
 This project and assets are for educational and personal use only. Redistribution or commercial use of assets requires appropriate permissions.
 
 
