@@ -53,6 +53,16 @@ Avoid pipes and the ground to score points.
 
 Click the green restart button to play again after game over.
 
+**How to Play:-**
+
+Start Game: Run the script to launch the game window.
+
+Control: Press the Spacebar to make the bird jump.
+
+Objective: Avoid hitting pipes and the ground. Each time the bird passes through a pair of pipes, your score increases.
+
+Restart: If your bird collides with a pipe or the ground, click the green Restart button to play again.
+
 
 **Features:-**
 
