@@ -19,6 +19,7 @@ Provides hands-on programming experience in Python.
 Offers a fun and engaging way to learn game development.
 
 **Data Description:-**
+
 This project uses image assets to create game visuals:
 
 img_45.png: Game Over screen image.
@@ -35,6 +36,7 @@ All images should be placed in the same directory as the script. These are stand
 
 
 **How to Use:-**
+
 Ensure Python 3.x is installed.
 
 Install Pygame via pip:
@@ -53,6 +55,7 @@ Click the green restart button to play again after game over.
 
 
 **Features:-**
+
 Animated bird sprites for realistic flapping motion.
 
 Randomly generated pipe obstacles for endless gameplay.
@@ -78,6 +81,7 @@ Graphics loaded from local image files.
 
 
 **Contact Information:-**
+
 For questions or suggestions, please contact:
 
 Email: Pratyush.25bai11473@vitbhopal.ac.in
@@ -85,6 +89,7 @@ Email: Pratyush.25bai11473@vitbhopal.ac.in
 GitHub: https://github.com/Pratyush25bai11473-ship-it
 
 **License:-**
+
 This project and assets are for educational and personal use only. Redistribution or commercial use of assets requires appropriate permissions.
 
 
